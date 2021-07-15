@@ -7,3 +7,7 @@
 [submodule "GrouPy"]
 	path = GrouPy
 	url = ./GrouPy
+[submodule "./GrouPy"]
+	url = https://github.com/adambielski/GrouPy.git
+[submodule "./p4m-gconv"]
+	url = https://github.com/jack-champagne/p4m-conv.git
