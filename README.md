@@ -8,7 +8,7 @@ respect inherent properties in image recognition to reduce needed parameters/inc
 Specifically, I worked to train and explore a model described in this paper [\[Cohen & Welling, 2016\]](#gcnn)
 for group equivariant networks. Essentially, a network with convolutions that "sees" all rotations and mirrors
 of its input image equivalently. I successfully reproduced the results from the paper on my own machine using
-the MNIST dataset and others. Check out [\[p4m-gconv\]](https://github.com/jack-champagne/p4m-conv) for more
+the MNIST dataset and others. Check out [\[p4m-gconv\]](https://github.com/jack-champagne/p4m-gconv) for more
 details.
 
 ## References
