@@ -4,3 +4,6 @@
 [submodule "p4m-gconv"]
 	path = p4m-gconv
 	url = ./p4m-gconv
+[submodule "GrouPy"]
+	path = GrouPy
+	url = ./GrouPy
