@@ -1,3 +1,6 @@
 [submodule "p4m-goncv"]
 	path = p4m-gconv
 	url = ./p4m-gconv/
+[submodule "p4m-gconv"]
+	path = p4m-gconv
+	url = ./p4m-gconv
